@@ -1,4 +1,4 @@
-To-do-list-app
+# 📝 To-Do List Console App (C#) :
 
 📖 Overview
 A simple console-based To-Do List application where users can create, view, modify, and delete tasks. This project was created to practice the fundamentals of Object-Oriented Programming (OOP) in C#.
